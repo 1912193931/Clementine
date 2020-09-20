@@ -5,12 +5,8 @@
 [![LGTM](https://img.shields.io/lgtm/grade/cpp/g/ShenMian/Clementine.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ShenMian/Clementine/context:cpp)
 [![CodeFactor](https://www.codefactor.io/repository/github/shenmian/clementine/badge)](https://www.codefactor.io/repository/github/shenmian/clementine)
 
-### 编译
-``` bash
-git clone https://github.com/ShenMian/Clementine
-cd    Clementine
-mkdir build
-cd    build
-cmake ..
-make
-```
+### 特点
+- 支持多平台
+
+### 联系
+[Gitter](https://gitter.im/ShenMian/Clementine)  
