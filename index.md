@@ -6,11 +6,11 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/shenmian/clementine/badge)](https://www.codefactor.io/repository/github/shenmian/clementine)
 
 ### 编译
-``` shell
+``` bash
 git clone https://github.com/ShenMian/Clementine
-cd Clementine
+cd    Clementine
 mkdir build
-cd build
+cd    build
 cmake ..
 make
 ```
