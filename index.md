@@ -6,7 +6,7 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/shenmian/clementine/badge)](https://www.codefactor.io/repository/github/shenmian/clementine)
 
 ### 编译
-``` bash
+``` shell
 git clone https://github.com/ShenMian/Clementine
 cd Clementine
 mkdir build
