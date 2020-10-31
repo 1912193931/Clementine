@@ -5,7 +5,12 @@
 [![LGTM](https://img.shields.io/lgtm/grade/cpp/g/ShenMian/Clementine.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ShenMian/Clementine/context:cpp)
 [![CodeFactor](https://www.codefactor.io/repository/github/shenmian/clementine/badge)](https://www.codefactor.io/repository/github/shenmian/clementine)
 
+### 简介
+C++命令行游戏框架.  
+
 ### 特点
+- 轻量
+- 简单
 - 支持多平台
 
 ### 联系
